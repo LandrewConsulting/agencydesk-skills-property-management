@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "AgencyDesk Skills — Property Management (free sample)",
+      "description": "Clerical property management document extraction skill from AgencyDesk Skills by L&M Consulting. Drafts only; requires qualified review.",
+      "skills": [
+        "lease-abstract"
+      ]
+    }
+  ]
+}
