@@ -1,6 +1,6 @@
 ---
 name: lease-abstract
-description: Lease abstraction: extracts a lease abstract of key terms from a residential or commercial real estate lease into a cited clerical table. Draft only; requires qualified property-manager review.
+description: "Lease abstraction: extracts a lease abstract of key terms from a residential or commercial real estate lease into a cited clerical table. Draft only; requires qualified property-manager review."
 license: MIT
 metadata:
   author: "L&M Consulting Inc."
