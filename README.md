@@ -9,7 +9,9 @@
 [![Agensi Listing](https://img.shields.io/badge/Agensi-Lease_Abstract-0c182c)](https://agensi.io/skills/lease-abstract)
 [![License: MIT](https://img.shields.io/badge/License-MIT-e8a83c)](./LICENSE)
 
-Clerical AI agent skills by **AgencyDesk Skills** (L&M Consulting Inc.). This repository hosts a single free sample from the 7-skill AgencyDesk Property Management pack: **`lease-abstract` (Lease Abstract)** (public free-sample distribution accepted).
+Clerical AI agent skills by **AgencyDesk Skills** (L&M Consulting Inc.) for property management. This repository hosts a single free sample from the 7-skill AgencyDesk Property Management pack: **`lease-abstract` (Lease Abstract)** (public free-sample distribution accepted).
+
+Lease Abstract performs lease abstraction for property managers and landlords: it extracts key terms from a residential or commercial real estate lease into a cited clerical table. It does not give legal advice or say whether a lease is complete or enforceable.
 
 Skills follow the open [Agent Skills](https://agentskills.io/) specification. Get the full 7-skill Property Management bundle at the [AgencyDesk Skills Store](https://landmconsultinginc.com/ai-skills/).
 
@@ -83,8 +85,14 @@ This repository is licensed under the [MIT License](./LICENSE). Skills are provi
 
 ---
 
-### More AgencyDesk Skills
+### More AgencyDesk free samples
 
-Looking for the full 7-skill Property Management pack or more skills for small businesses and industries? Explore all packs at **[landmconsultinginc.com/ai-skills](https://landmconsultinginc.com/ai-skills/)**.
+| Vertical | Free sample | GitHub repo | skills.sh listing |
+|---|---|---|---|
+| Insurance | COI Contract Check | [agencydesk-skills-insurance](https://github.com/LandrewConsulting/agencydesk-skills-insurance) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-insurance) |
+| Construction | Bid Leveling Scope Gap | [agencydesk-skills-construction](https://github.com/LandrewConsulting/agencydesk-skills-construction) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-construction) |
+| Property Management | Lease Abstract | [agencydesk-skills-property-management](https://github.com/LandrewConsulting/agencydesk-skills-property-management) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-property-management) |
+| Title & Escrow | Closing Disclosure Settlement Comparison | [agencydesk-skills-title-escrow](https://github.com/LandrewConsulting/agencydesk-skills-title-escrow) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-title-escrow) |
+| All AgencyDesk packs | Full skill store | [landmconsultinginc.com/ai-skills](https://landmconsultinginc.com/ai-skills/) | [AgencyDesk Skills Store](https://landmconsultinginc.com/ai-skills/) |
 
 Published by L&M Consulting.
